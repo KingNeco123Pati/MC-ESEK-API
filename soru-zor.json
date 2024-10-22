@@ -1,0 +1,27 @@
+{
+    "zor":[
+        {
+            "soru0" : "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
+            "soru1" : "Plank sabiti hangi bilim dalında kullanılır?",
+            "soru2" : "Fibanocci dizisinde sekizinci sıradaki sayı nedir?",
+            "soru3" : "Fotosentez sırasında bitkiler hangi gazı alır?",
+            "soru4" : "**Kırmızı Gezegen** olarak bilinen gezegen hangisidir?",
+            "soru5" : "Higgs bozonu hangi ünlü fizik labaratuvarında keşfedildi?",
+            "soru6" : "Dünyanın çekirdeğinde en fazla bulunan element hangisidir?",
+            "soru7" : "En uzun süre tahtta kalan İngilitere kraliçesi kimdir?",
+            "soru8" : "İlk Nobel Barış Ödülü sahibi kimdir?",
+            "soru9" : "En az nüfusa sahip ülke hangisidir?",
+            "cevap0" : "Watson ve Crick",
+            "cevap1" : "Kuantum Mekaniği",
+            "cevap2" : "21",
+            "cevap3" : "Karbondioksit",
+            "cevap4" : "Mars",
+            "cevap5" : "CERN",
+            "cevap6" : "Demir",
+            "cevap7" : "2. Elizabeth",
+            "cevap8" : "Jean Henri Dunant",
+            "cevap9" : "Vatikan"
+
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "orta":[
+        {
+            "soru0" : "Dünya'nın en yüksek dağı hangisidir?",
+            "soru1" : "Hangi elementin sembolü **O** dur?",
+            "soru2" : "Avrupa Birliği'ne üye olmayan Avrupa ülkesi hangisidir?",
+            "soru3" : "Mona Lisa Tablosu hangi müzede sergilenmektedir?",
+            "soru4" : "Dünya'da en çok konuşulan dil hangisidir?",
+            "soru5" : "Einstein'in ünlü formulü nedir?",
+            "soru6" : "Amazon nehrinin çıktığı ülke hangisidir?",
+            "soru7" : "Matematikte Pi sayısının ilk üç hanesi nedir?",
+            "soru8" : "En büyük memeli hayvan nedir?",
+            "soru9" : "Türkiye'nin yüz ölçümü en büyük il hangisidir?",
+            "cevap0" : "Everest",
+            "cevap1" : "Oksijen",
+            "cevap2" : "Norveç",
+            "cevap3" : "Louvre",
+            "cevap4" : "Mandarin Çincesi",
+            "cevap5" : "E=mc²",
+            "cevap6" : "Peru",
+            "cevap7" : "3.14",
+            "cevap8" : "Mavi balina",
+            "cevap9" : "Konya"
+
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "kolay":[
+        {
+            "soru0" : "Türkiye'nin başkenti neresidir?",
+            "soru1" : "Dünya'nın en büyük okyanusu hangisidir?",
+            "soru2" : "Güneş Sistemi'ndeki en büyük gezegen hangisidir?",
+            "soru3" : "**İstanbul**, hangi iki kıtada bulunur?",
+            "soru4" : "Türkiye'nin en uzun nehri hangisidir?",
+            "soru5" : "İngilizce'de **elma** ne demektir?",
+            "soru6" : "En küçük asal sayı hangisidir?",
+            "soru7" : "Fransa'nın başkenti neresidir?",
+            "soru8" : "Bir yıl kaç gün sürer?",
+            "soru9" : "Atatürk hangi yılda doğmuştur?",
+            "cevap0" : "Ankara",
+            "cevap1" : "Pasifik Okyanusu",
+            "cevap2" : "Jüpiter",
+            "cevap3" : "Asya ve Avrupa",
+            "cevap4" : "Kızılırmak",
+            "cevap5" : "Apple",
+            "cevap6" : "2",
+            "cevap7" : "Paris",
+            "cevap8" : "365",
+            "cevap9" : "1881"
+        }
+   ]
+}
